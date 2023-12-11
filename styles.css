@@ -1,0 +1,23 @@
+body {
+   background-color: rgb(255, 255, 255);
+   color: rgb(255, 255, 255);
+   font-family: Arial, sans-serif;
+}
+
+.main {
+   margin: 0 auto;
+   width: 60%;
+   background-color: #fd9500;
+   padding: 10px;
+   border-radius: 15px;
+   
+}
+
+img{
+   max-width: 100%;
+   border-radius: 7px;
+}
+
+a:link,a:visited {
+   color: rgb(120, 244, 248);
+}
